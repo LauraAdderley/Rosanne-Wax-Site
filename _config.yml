@@ -20,10 +20,10 @@
 
 title:            'Free African Villages in southwestern New Providence, Bahamas'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://lauraadderley.github.io'
+baseurl:          '/adelaidecarmichael'
 copyright:        'Example copyright org, 2019'
-logo:             '/assets/logo.png'
+logo:             '/img/africa.jpg'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -139,6 +139,6 @@ footer:
     - label: 'Contact'
       link: 'https://gitter.im/minicomp/wax/'
   logos:
-    - img: '/img/logo.png'
+    - img: '/img/africa.jpg'
 
 # FIN
