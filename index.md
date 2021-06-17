@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: StJames
-  pid: ac5
+  pid: ac6
   y: 25%
   height: '500px'
 ---

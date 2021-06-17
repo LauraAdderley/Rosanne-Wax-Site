@@ -10,4 +10,7 @@ location: Caribbean
 original_file: Bahamas&Caribbean
 order: '01'
 layout: StJames_item
+thumbnail: "/img/derivatives/iiif/images/ac1/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/ac1/manifest.json"
+full: "/img/derivatives/iiif/images/ac1/full/1140,/0/default.jpg"
 ---
